@@ -34,4 +34,4 @@
 
 ```
 
-![ObjC metaclass](https://github.com/zhenshub/blogger/raw/main/pics/pic_objc_metaclass.png =300x180)
+![ObjC metaclass](https://github.com/zhenshub/blogger/raw/main/pics/pic_objc_metaclass.png)
