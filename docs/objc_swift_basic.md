@@ -54,3 +54,5 @@ id objc_msgSend(id, SEL, ... /* args */) {
 2. 实例、类与元类的关系，为什么要设计metaclass？
 
 ![ObjC metaclass](https://github.com/zhenshub/blogger/raw/main/pics/pic_objc_metaclass.png)
+
+meta class
